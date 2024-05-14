@@ -1,7 +1,3 @@
-<img align="right" height="200" src="https://avatars.githubusercontent.com/u/144759264?s=400&u=b3803325709bee3c9677a5a8f0b090bde71cac44&v=4"  />
-
-###
-
 <h1 align="center">Hello there!<br>I'm Soorya Prasad S</h1>
 
 ###
@@ -82,9 +78,9 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sooryaprasad28&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=github_dark&hide_border=false&order=2" height="220" alt="languages graph"  />
-  <img src="https://github-readme-stats.vercel.app/api?username=sooryaprasad28&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false&order=1" height="220" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=sooryaprasad28&locale=en&mode=daily&theme=github_dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sooryaprasad28&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=github_dark&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=sooryaprasad28&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=sooryaprasad28&locale=en&mode=daily&theme=github_dark&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
 ###
